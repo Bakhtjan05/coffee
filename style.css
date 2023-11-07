@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* <button class="text-black px-7 py-4 bg-[#F9C06A] rounded-3xl mt-5">SingUp</button> */
